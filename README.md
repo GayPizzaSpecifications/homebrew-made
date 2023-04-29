@@ -1,7 +1,7 @@
-# Mystic on Homebrew
+# Gay Pizza Specifications on Homebrew
 
 ```
-$ brew tap mysticlgbt/made
+$ brew tap gaypizzaspecifications/made
 ```
 
 ## Contents
